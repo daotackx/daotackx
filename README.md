@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Ngo Thi Thao Linh
 
-<!--
-**daotackx/daotackx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering student at FPT University – Da Nang  
+💻 Passionate about backend development with Node.js & Java  
+📌 Technologies: Node.js, Express, MongoDB, Spring Boot, React  
+🌱 Currently learning: TypeScript, Docker  
+📫 How to reach me: linhngo1052003@gmail.com  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 🏠 [RoomNear](https://github.com/WDP392): Full-stack room rental platform
+- 🐶 [PetShop](https://github.com/Nhatthach2703/SDN302_Project): Pet e-commerce site
+- 🏞️ [Eco-tourism system](https://github.com/NDucViet/KDLSTManager)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
